@@ -1,0 +1,2 @@
+D:\Labs on C\2.6.6\Debug\2.6.6.exe
+D:\Labs on C\2.6.6\Debug\2.6.6.pdb
