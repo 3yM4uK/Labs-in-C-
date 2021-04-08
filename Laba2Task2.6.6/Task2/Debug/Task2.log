@@ -1,7 +1,0 @@
-﻿  Task2.cpp
-D:\Labs on C\Laba2Task2.6.6\Task2\Task2.cpp(18,40): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
-D:\Labs on C\Laba2Task2.6.6\Task2\Task2.cpp(22,12): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "unsigned __int64"
-D:\Labs on C\Laba2Task2.6.6\Task2\Task2.cpp(22,12): message : рекомендуется использовать "%llu" в строке форматирования
-D:\Labs on C\Laba2Task2.6.6\Task2\Task2.cpp(22,12): message : рекомендуется использовать "%I64u" в строке форматирования
-D:\Labs on C\Laba2Task2.6.6\Task2\Task2.cpp(23,40): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
-  Task2.vcxproj -> D:\Labs on C\Laba2Task2.6.6\Task2\Debug\Task2.exe

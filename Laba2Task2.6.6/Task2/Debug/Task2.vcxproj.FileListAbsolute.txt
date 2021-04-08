@@ -1,2 +1,0 @@
-D:\Labs on C\Laba2Task2.6.6\Task2\Debug\Task2.exe
-D:\Labs on C\Laba2Task2.6.6\Task2\Debug\Task2.pdb
