@@ -1,0 +1,2 @@
+D:\Labs on C\5.1(5)\Debug\5.1(5).exe
+D:\Labs on C\5.1(5)\Debug\5.1(5).pdb

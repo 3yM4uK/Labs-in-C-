@@ -1,0 +1,5 @@
+﻿  5.1(5).cpp
+D:\Labs on C\5.1(5)\5.1(5).cpp(8,2): warning C4091: typedef : пропускается слева от "QueueNode", когда ни одна переменная не объявлена
+D:\Labs on C\5.1(5)\5.1(5).cpp(11,2): warning C4091: typedef : пропускается слева от "Queue", когда ни одна переменная не объявлена
+D:\Labs on C\5.1(5)\5.1(5).cpp(187): warning C4715: getNthStackNode: значение возвращается не при всех путях выполнения
+  5.1(5).vcxproj -> D:\Labs on C\5.1(5)\Debug\5.1(5).exe
