@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Labs on C\e-Shop\e-Shop\struct.h(17,2): warning C4091: typedef : пропускается слева от "BuyerName", когда ни одна переменная не объявлена
+D:\Labs on C\e-Shop\e-Shop\struct.h(40,2): warning C4091: typedef : пропускается слева от "Basket", когда ни одна переменная не объявлена
+D:\Labs on C\e-Shop\e-Shop\struct.h(52,2): warning C4091: typedef : пропускается слева от "BasketList", когда ни одна переменная не объявлена
+  e-Shop.vcxproj -> D:\Labs on C\e-Shop\Debug\e-Shop.exe
