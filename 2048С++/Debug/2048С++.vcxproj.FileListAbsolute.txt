@@ -1,0 +1,2 @@
+D:\Cursach\2048С++\Debug\2048С++.exe
+D:\Cursach\2048С++\Debug\2048С++.pdb
